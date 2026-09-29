@@ -55,8 +55,9 @@ Berikut adalah tampilan dari setiap menu yang tersedia pada website LaraPress.
 
 Halaman utama menampilkan menu navigasi dan beberapa pilihan halaman yang tersedia.
 
-![Halaman Utama](screenshots/home.png)
+![Halaman Utama](img/home.png)
 
+![Halaman Utama](img/menu.png)
 ---
 
 ### 📖 2. Halaman Tentang Kami
@@ -71,7 +72,7 @@ Halaman ini berisi informasi mengenai project LaraPress dan tujuan pembuatannya.
 
 Halaman kontak berisi informasi untuk menghubungi pembuat website.
 
-![Kontak Saya](screenshots/kontak-me.png)
+![Kontak Saya](img/kontak.png)
 
 ---
 
@@ -79,5 +80,5 @@ Halaman kontak berisi informasi untuk menghubungi pembuat website.
 
 Halaman biodata berisi informasi mengenai Rizwan Fauziani Ilham.
 
-![Biodata](screenshots/biodata.png)
+![Biodata](img/biodata.png)
 
