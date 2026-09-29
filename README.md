@@ -63,7 +63,7 @@ Halaman utama menampilkan menu navigasi dan beberapa pilihan halaman yang tersed
 
 Halaman ini berisi informasi mengenai project LaraPress dan tujuan pembuatannya.
 
-![Tentang Kami](screenshots/tentang-kami.png)
+![Tentang Kami](img/tentang.png)
 
 ---
 
